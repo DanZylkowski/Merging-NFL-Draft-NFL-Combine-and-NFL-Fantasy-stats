@@ -1,2 +1,2 @@
-# Merging-NFL-Draft-NFL-Combine-and-NFL-Fantasy-stats
-This project merges NFL draft data scraped from https://www.pro-football-reference.com, NFL Combine data from https://nflcombineresults.com/, and NFL Fantasy data from the API of https://www.fantasyfootballdatapros.com/.
+# Wrangling, Merging, and Visualizing Data from NFL Fantasy stats, the NFL Draft, and the NFL-Combine from the years 2017,2018, and 2019.
+This project uses data from three different sources, all from the same time period: the years 2017,2018, and 2019. The first data source is an Excel file of NFL Combine data compiled from https://nflcombineresults.com/. The second source contains NFL draft data scraped from https://www.pro-football-reference.com. The third source contains NFL Fantasy data retrieved from the API of https://www.fantasyfootballdatapros.com/.
