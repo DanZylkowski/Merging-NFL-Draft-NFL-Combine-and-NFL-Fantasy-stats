@@ -3,4 +3,4 @@ This project uses data from three different sources, all from the same time peri
 
 After wrangling and cleaning the data sources, each will be loaded into Tables into a SQLLite database using the Python SQLAlchemy library. The Tables will then be joined in pairs in SQL and loaded back into Python dataframes.
 
-Finally, visualizations will be created to explore relationships between varaibles in the merged data,
+Finally, several visualizations will be created to explore the relationships between varaibles in the merged data.
